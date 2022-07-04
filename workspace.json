@@ -1,0 +1,11 @@
+{
+  "$schema": "./node_modules/nx/schemas/workspace-schema.json",
+  "version": 2,
+  "projects": {
+    "mylib": "libs/mylib",
+    "native": "apps/native",
+    "native-e2e": "apps/native-e2e",
+    "react-native": "libs/react-native",
+    "remix": "apps/remix"
+  }
+}
